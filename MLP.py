@@ -131,7 +131,6 @@ class MLP:
                 d_ratio_23 = E_to_a*a_to_z*z_to_w
                 self.weights2[i,j] = self.weights2[i,j] - self.learning_rate_w*d_ratio_23
 
-    # (2)W(j,i)
     def backpropagation_weigth_1_2(self,d):
         interfers_all_list = []
         for i in range(self.h_l_num):
