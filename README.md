@@ -24,8 +24,10 @@
 - Accuracy: **% 97.87174999**
 - Loss / Accuracy Graph: <br>
 ![This is an image](https://github.com/IsmailKonak/MLP-From-Scratch/blob/main/Loss_Accuracy.png)
+
 <br>
 <br>
+
 ## Reference
 
 I have benefited greatly from the following resources in this process:
