@@ -6,7 +6,7 @@
 
 - The model is coded using _Numpy_, _MpMath_, and _Matplotlib_ libraries
 - As task I choosed "**XOR Gate Learning**", which is one of the basis task for deep learning models 
-- The activation function for all layers is the "**Sigmoid**" function
+- The activation function is the "**Sigmoid**" function for all layers
 - The model contains:
   - 1 input layer with 2 neurons
   - 1 hidden layer with 4 neurons
@@ -23,7 +23,7 @@
 - Loss: **0.0002100859**
 - Accuracy: **% 97.87174999**
 - Loss / Accuracy Graph: <br>
-![This is an image](https://github.com/IsmailKonak/MLP-From-Scratch/blob/main/XOR_gate_3.png)
+![This is an image](https://github.com/IsmailKonak/MLP-From-Scratch/blob/main/Loss_Accuracy.png)
 <br>
 <br>
 ## Reference
