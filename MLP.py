@@ -1,12 +1,8 @@
 import numpy as np 
-import pandas as pd
 import matplotlib.pyplot as plt
 from mpmath import exp
 import time
 from datetime import datetime
-import sys
-import pickle
-import os 
 
 class MLP:
     def __init__(self):
