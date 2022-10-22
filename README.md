@@ -24,7 +24,7 @@
 - Loss: **0.0002100859**
 - Accuracy: **% 97.87174999**
 - Loss / Accuracy Graph: <br>
-![This is an image](https://github.com/IsmailKonak/MLP-From-Scratch/blob/main/Loss_Accuracy.png)
+![This is an image](https://github.com/IsmailKonak/MLP-From-Scratch-Python/blob/main/Loss_Accuracy.png)
 
 <br>
 <br>
