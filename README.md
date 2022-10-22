@@ -4,7 +4,8 @@
 
 ## About
 
-- The model is coded using _Numpy_, _MpMath_, and _Matplotlib_ libraries
+- The model is coded in Python
+- Only _Numpy_, _MpMath_, and _Matplotlib_ libraries are used during the proccess
 - As task I choosed "**XOR Gate Learning**", which is one of the basis task for deep learning models 
 - The activation function is the "**Sigmoid**" function for all layers
 - The model contains:
